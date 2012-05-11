@@ -4,7 +4,6 @@ by [Yvo van Dillen](http://www.atomicon.nl)
 
 Wordpress has a fantastic action and filtering system.
 So I decided to bring this functionality to Codeigniter.
-This package
 
 ##Installation
 Just copy the files from this package to the correspoding folder in your
